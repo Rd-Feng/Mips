@@ -1,2 +1,2 @@
 # Mips
-Contains my MIPS programs
+Contains my MIPS programs written using MARS
